@@ -1,0 +1,1 @@
+<p class="retour"><a href="Page_accueil.php">Retour à la page d'accueil</a></p>
